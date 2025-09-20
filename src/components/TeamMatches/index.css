@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.background-color {
+  background: linear-gradient(to bottom, #a4261d, #1e293b);
+  box-sizing: border-box;
+  height: 100%;
+}
+.teamets-img {
+  margin: 30px;
+  width: 90vw;
+}
+.p {
+  margin: 30px;
+  color: wheat;
+}
+.ul {
+  display: flex;
+}

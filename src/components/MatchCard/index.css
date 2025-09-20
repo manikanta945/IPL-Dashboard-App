@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.matchcard {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+  width: 25vw;
+  text-align: center;
+  margin: 30px;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.img {
+  width: 100px;
+  padding: 10px;
+}
+.red {
+  color: #e31a1a;
+  font-size: 20px;
+}
+
+.green {
+  color: #18ed66;
+  font-size: 20px;
+}

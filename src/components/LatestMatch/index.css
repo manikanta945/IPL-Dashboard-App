@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.team-logo-img {
+  width: 20vw;
+}
+.latestmatch-box {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+  padding: 30px;
+  align-items: center;
+  background-color: #0f172a;
+  color: white;
+}
+.left-side {
+  width: 30vw;
+}
+.right-side {
+  width: 30vw;
+  text-align: right;
+}
