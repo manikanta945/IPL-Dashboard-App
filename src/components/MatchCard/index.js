@@ -10,7 +10,7 @@ const MatchCard = props => {
     <li className="matchcard">
       <img
         src={competingTeamLogo}
-        alt={`latest match ${competingTeam}`}
+        alt={`competing team ${competingTeam}`}
         className="img"
       />
       <p>{competingTeam}</p>

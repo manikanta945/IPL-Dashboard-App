@@ -28,7 +28,6 @@ class TeamMatches extends Component {
     const listdata = data.latest_match_details
     const matchdata = data.recent_matches
 
-    console.log(data.team_banner_url)
 
     const matchcardData = matchdata.map(each => ({
       result: each.result,
